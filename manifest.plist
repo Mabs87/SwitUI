@@ -1,25 +1,25 @@
 <plist version="1.0">
 	<dict>
-		<key>items</key>
-		<array>
-			<dict>
-				<key>assets</key>
-				<array>
-					<dict>
-						<key>kind</key>
-						<string>software-package</string>
-						<key>url</key>
-						<string>https://az.box.com/s/pnx1zogdke6t7uu2ryefg7f964jvukh3</string>
-					</dict>
-					<dict>
-						<key>kind</key>
-						<string>display-image</string>
-						<key>needs-shine</key>
-						<false/>
-						<key>url</key>
-						<string>https://s3.amazonaws.com/testfairy-astrazeneca/icons/259386/95ade8784afe10517aa5e7b51371e99809c58a11.png</string>
-					</dict>
-				</array>
+	  <key>items</key>
+	  <array>
+		<dict>
+		   <key>assets</key>
+		        <array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/Mabs87/SwiftUI/blob/master/prod-SFE_PreCallPlanning_master-55.ipa?raw=true</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://s3.amazonaws.com/testfairy-astrazeneca/icons/259386/95ade8784afe10517aa5e7b51371e99809c58a11.png</string>
+				</dict>
+			</array>
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
