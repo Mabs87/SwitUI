@@ -9,7 +9,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Mabs87/SwiftUI/blob/master/prod-SFE_PreCallPlanning_master-55.ipa?raw=true</string>
+					<string>https://github.com/Mabs87/SwiftUI/blob/master/stage-SFE_Analytics_develop-291.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,13 +23,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>com.astrazeneca.SFEPreCallPlanning.download</string>
+					<string>com.astrazeneca.SFEAnalytics.stage.download</string>
 					<key>bundle-version</key>
-					<string>8.1.5</string>
+					<string>8.0.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>SnapShot</string>
+					<string>Insight (Stage)</string>
 				</dict>
 			</dict>
 		</array>
